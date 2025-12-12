@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <namaloma>.*
+*This project has been created as part of the 42 curriculum by namaloma.*
 
 # Libft
 
@@ -158,6 +158,6 @@ All code was written, tested, and understood in compliance with the 42 AI usage 
 
 ---
 
-## Author
+## Author : namaloma
 
 * <namaloma>
