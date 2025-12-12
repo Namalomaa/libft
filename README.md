@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <your_login_here>.*
+*This project has been created as part of the 42 curriculum by <namaloma>.*
 
 # Libft
 
@@ -132,9 +132,11 @@ These functions ensure proper memory management and safe list manipulation.
 ### References
 
 * Linux man pages (`man strlen`, `man memcpy`, etc.)
+* C Reference: cppreference.com
 * GNU C Library documentation
 * BSD libc documentation (for `strlcpy`, `strlcat`, `bzero`)
-* 42 intranet documentation
+* Mike sahah C Programming Series https://youtube.com/playlist?list=PLvv0ScY6vfd8M-Mi_Vyrg7KgISTW3Sklt&si=Qk1EG9fp1UFRK4yy
+* libft-war machine https://github.com/0x050f/libft-war-machine
 
 ### AI Usage
 
@@ -144,7 +146,7 @@ AI tools were used strictly as a learning aid, primarily for:
 * Understanding edge cases and design decisions
 * Reviewing and explaining existing code
 
-All code was written, tested, and understood by the author in compliance with the 42 AI usage guidelines.
+All code was written, tested, and understood in compliance with the 42 AI usage guidelines.
 
 ---
 
@@ -158,4 +160,4 @@ All code was written, tested, and understood by the author in compliance with th
 
 ## Author
 
-* <your_login_here>
+* <namaloma>
